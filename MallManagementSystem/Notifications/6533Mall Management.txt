@@ -1,0 +1,22 @@
+Home- Sign in, Address at bottom
+Shops- Clothing, cosmotics, toys and gifts, footware
+
+Admin- 
+Add rate and floor , pic at home
+owners- category email address password , notification send and view
+shop owners- notification view and send
+
+
+21-02-2018	
+add ending date- from and to - automatic mail to admin and shopowner intimating agreement close
+home- welcome admin and pic
+ownersadd- 
+
+multiple images upload in shop add.
+
+disable id password while close shop.
+
+shop owners home- pic , welcome
+
+
+Monday-review
